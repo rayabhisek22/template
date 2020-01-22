@@ -1,0 +1,9 @@
+.tri{
+    width: 0px;
+    border-left: 500px solid green;
+    border-bottom: 500px solid white;
+    border-right: 500px solid blue;
+    background-color: red;
+    margin: 10px;
+    
+}
